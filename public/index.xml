@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luminal&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Luminal&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hello there, I&amp;rsquo;m Luminal. Welcome to my personal blog where I talk about many things, mostly Game Development and my hobbies.&lt;/p&gt;&#xA;&lt;p&gt;Mainly, you&amp;rsquo;ll see the ups and downs of my experiences and we might have a laugh here and there, mostly at the expense of my pain and suffering.&lt;/p&gt;&#xA;&lt;p&gt;Little bit about me: I&amp;rsquo;m currently (on paper, at least) studying Computer Science as my degree. I&amp;rsquo;ve been in the game development scene for little over 2 years, mostly working with Godot and custom engines like Robust Toolbox.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
