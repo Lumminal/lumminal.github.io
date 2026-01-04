@@ -1,0 +1,4 @@
+home:
+  image: 'images/pfp.png'
+  greetings: 'My personal blog!'
+  text: 'A blog about game dev, and other things.'
