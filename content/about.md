@@ -1,6 +1,7 @@
 ---
-title: about
-
+title: "about"
+author: "Luminal"
+date: '2026-01-01'
 ---
 
 ## About Me
