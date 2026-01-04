@@ -34,3 +34,7 @@ weight = 3
 
 [outputs]
  home = ["HTML","RSS","SearchIndex"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
